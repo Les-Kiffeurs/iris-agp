@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Maven/Gradle
+target/
+build/
+
+# Logs
+*.log
+
+# Compilés Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Divers
+*.temp
+*.~*
+
+# Configuration utilisateur
+*.swp
